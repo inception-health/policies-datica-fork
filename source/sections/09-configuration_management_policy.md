@@ -1,6 +1,6 @@
 # 9. Configuration Management Policy
 
-Datica standardizes and automates configuration management through the use of Chef/Salt scripts as well as documentation of all changes to production systems and networks. Chef and Salt automatically configure all Datica systems according to established and tested policies, and are used as part of our Disaster Recovery plan and process.
+Datica standardizes and automates configuration management through the use of Salt scripts as well as documentation of all changes to production systems and networks. Salt automatically configures all Datica systems according to established and tested policies, and are used as part of our Disaster Recovery plan and process.
 
 ## 9.1 Applicable Standards
 
